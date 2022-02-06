@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Merhaba Dünya!'
+    return 'Hi, this is last update!'
